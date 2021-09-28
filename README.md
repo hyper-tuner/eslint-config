@@ -17,5 +17,5 @@ Authenticate to GitHub Packages:
 Proceed with the installation:
 
 ```bash
-npm i --save @speedy-tuner/eslint-config
+npm i --save-dev @speedy-tuner/eslint-config eslint-plugin-modules-newline eslint-plugin-prettier
 ```
