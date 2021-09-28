@@ -1,5 +1,6 @@
 # 📦 SpeedyTuner `ESLint` config
 
+![master](https://github.com/speedy-tuner/eslint-config/actions/workflows/build.js.yml/badge.svg?branch=master)
 ![License](https://img.shields.io/github/license/speedy-tuner/eslint-config)
 
 ## Installation
