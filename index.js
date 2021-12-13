@@ -62,5 +62,6 @@ module.exports = {
     'no-shadow': 0,
     '@typescript-eslint/no-shadow': 2,
     'arrow-body-style': ['warn', 'as-needed'],
+    'react/function-component-definition': 0
   }
 };
