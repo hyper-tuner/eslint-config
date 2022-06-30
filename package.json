@@ -1,12 +1,12 @@
 {
-  "name": "@speedy-tuner/eslint-config",
+  "name": "@hyper-tuner/eslint-config",
   "version": "0.1.5",
   "description": "Single source of truth for ESLint",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/speedy-tuner/eslint-config"
+    "url": "https://github.com/hyper-tuner/eslint-config"
   },
   "dependencies": {
     "eslint": "^7.32.0",
